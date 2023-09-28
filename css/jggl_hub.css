@@ -33,11 +33,11 @@
     margin: 0px;
 }
 a {
-    color: black;
+    color: rgb(15, 8, 19);
   }
 a:visited {
-    color: black;
+    color: rgb(15, 8, 19);
 }
 a:hover {
-    color: black;
+    color: rgb(15, 8, 19);
 }
