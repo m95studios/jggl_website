@@ -83,7 +83,7 @@ a:hover {
     margin-top: 100px;
     margin-bottom: 20px;
     padding: 0px;
-    background: darkslategray;
+    /*background: darkslategray;  Use to see empty game window*/
    
 }
 
